@@ -1,4 +1,3 @@
-Script:
 local DataStorageService = game:GetService("DataStoreService")
 local dataStorage = DataStorageService:GetDataStore("Earnings")
 local Players = game:GetService("Players")
